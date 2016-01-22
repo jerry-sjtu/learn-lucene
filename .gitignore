@@ -45,3 +45,9 @@ bizer.log
 *iml
 *gen-*
 *logs
+
+*.cfs
+*.cfe
+*.si
+*.lock
+segments_*
